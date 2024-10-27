@@ -1,6 +1,6 @@
 using System;
 using ImprovedTimers;
-using Sirenix.OdinInspector;
+using NaughtyAttributes;
 using UnityEngine;
 using UnityUtils;
 using UnityUtils.StateMachine;
